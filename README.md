@@ -1,2 +1,2 @@
 # clash-rules
-自用clash规则
+丢点clash规则，有些找不到)
