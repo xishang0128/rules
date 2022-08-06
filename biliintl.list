@@ -1,7 +1,7 @@
 #>bilibilicomics
 DOMAIN-SUFFIX,bilibilicomics.com, biliintl
 
-# > bilibili Intl
+# > bilibiliintl
 DOMAIN-SUFFIX,biliintl.com, biliintl
 DOMAIN-SUFFIX,bilibili.tv, biliintl
 DOMAIN-KEYWORD,bstar, biliintl
