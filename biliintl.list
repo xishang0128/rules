@@ -1,20 +1,12 @@
-#>bilibilicomics
-DOMAIN-SUFFIX,bilibilicomics.com, biliintl
-
-# > bilibiliintl
-DOMAIN-SUFFIX,biliintl.com, biliintl
-DOMAIN-SUFFIX,bilibili.tv, biliintl
-DOMAIN-KEYWORD,bstar, biliintl
-DOMAIN,api.global.bilibili.com, biliintl
-DOMAIN,app.global.bilibili.com, biliintl
-DOMAIN,apm-misaka.biliapi.net, biliintl
-DOMAIN,api.bilibili.tv, biliintl
-DOMAIN,p-bstarstatic.akamaized.net, biliintl
-DOMAIN,pic-bstarstatic.akamaized.net, biliintl
-DOMAIN,upos-bstar-mirrorakam.akamaized.net, biliintl
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net, biliintl
-DOMAIN,upos-sz-mirrorcosbstar1.bilivideo.com, biliintl
-DOMAIN-SUFFIX,bstarstatic.com, biliintl
-DOMAIN,p.bstarstatic.com, biliintl
-DOMAIN-SUFFIX,balaboom.com,biliintl
-DOMAIN,s-bstarstatic.akamaized.net,biliintl
+biliintl.com
+bilibili.tv
+api.global.bilibili.com
+app.global.bilibili.com
+api.bilibili.tv
+apm-misaka.biliapi.net
+bstarstatic.com
+p-bstarstatic.akamaized.net
+upos-bstar-mirrorakam.akamaized.net
+upos-bstar1-mirrorakam.akamaized.net
+upos-sz-mirrorcosbstar1.bilivideo.com
+passport.biliintl.com
